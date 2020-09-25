@@ -62,3 +62,14 @@ HTML syntax:
 ```markdown
 <h1 style="color: red">Please add some style... wahhhhhhhhhhhh!</h1>
 ```
+
+## Brunozhon.github.io
+
+Brunozhon.github.io is a website that tells features, stories, projects, and other things I made. 
+
+- Website <https://brunozhon.github.io>
+  - API <https://brunozhon.github.io/api/>
+  - Extension <https://brunozhon.github.io/ex-brunozhon/>
+- GitHub repo <https://github.com/Brunozhon/Brunozhon.github.io>
+
+*All features avavible at <https://github.com/Brunozhon?tab=repositories>*
