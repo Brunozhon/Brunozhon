@@ -1,4 +1,4 @@
-# Hello!
+# Hi!
 
 My name is Bruno Zhong. I am learning:
 
@@ -79,3 +79,6 @@ Brunozhon.github.io is a website that tells features, stories, projects, and oth
 See at <https://brunozhon.github.io/otter/robodex/>!
 
 ## Up next...
+
+The BrunoCaptcha!!!!!!!!!!!!
+
