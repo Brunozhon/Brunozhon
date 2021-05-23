@@ -78,7 +78,32 @@ Brunozhon.github.io is a website that tells features, stories, projects, and oth
 
 See at <https://brunozhon.github.io/otter/robodex/>!
 
-## Up next...
 
-The BrunoCaptcha!!!!!!!!!!!!
+## Stats
 
+<img src="https://github-readme-stats.vercel.app/api?username=Brunozhon&show_icons=true&theme=radical&include_all_commits=true">
+
+### How to add
+
+Simply copy/paste this code and replace `yourusername` with your username.
+
+> **Tip:**
+> Change `include_all_commits` to `false`.
+> Change `theme` to a diffrent theme.
+> Change `show_icons` to `false`.
+
+```
+<img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical&include_all_commits=true">
+```
+
+`include_all_commits=false`:
+
+<img src="https://github-readme-stats.vercel.app/api?username=Brunozhon&show_icons=true&theme=radical&include_all_commits=false">
+
+`theme=dracula`:
+
+<img src="https://github-readme-stats.vercel.app/api?username=Brunozhon&show_icons=true&theme=dracula&include_all_commits=true">
+
+`show_icons=false`:
+
+<img src="https://github-readme-stats.vercel.app/api?username=Brunozhon&show_icons=false&theme=radical&include_all_commits=true">
