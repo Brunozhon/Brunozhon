@@ -87,7 +87,7 @@ See at <https://brunozhon.github.io/otter/robodex/>!
 
 Simply copy/paste this code and replace `yourusername` with your username.
 
-> **Tip:**
+> **Tips:**
 > Change `include_all_commits` to `false`.
 > Change `theme` to a diffrent theme.
 > Change `show_icons` to `false`.
@@ -97,9 +97,9 @@ Simply copy/paste this code and replace `yourusername` with your username.
 <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical&include_all_commits=true" alt="Your Username's GitHub stats">
 ```
 
-`include_all_commits=false`:
-
 URL:
+
+`include_all_commits=false`:
 
 <img src="https://github-readme-stats.vercel.app/api?username=Brunozhon&show_icons=true&theme=radical&include_all_commits=false">
 
@@ -130,4 +130,17 @@ Element:
 <a href="https://github.com/Brunozhon/Brunozhon.github.io"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Brunozhon&repo=Brunozhon.github.io&theme=radical" /></a>
 <a href="https://github.com/Brunozhon/otter"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Brunozhon&repo=otter&theme=radical" />
 <a href="https://github.com/Brunozhon/games"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Brunozhon&repo=games&theme=radical" /></a>
+
+### How to add
+
+Simply copy/paste this code and replace `yourusername` with your GitHub username and `yourrepo` with you GitHub repo you'd like to show.
+
+> **Tips:**
+> Like before, you can change the theme so I won't show that.
+> No theme is added or deleted.
+
+```html
+<a href="https://github.com/yourusername/yourrepo"><img src="https://github-readme-stats.vercel.app/api/pin/?username=yourusername&repo=yourrepo&theme=radical" /></a>
+```
+
 
