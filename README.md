@@ -91,12 +91,15 @@ Simply copy/paste this code and replace `yourusername` with your username.
 > Change `include_all_commits` to `false`.
 > Change `theme` to a diffrent theme.
 > Change `show_icons` to `false`.
+> Add `alt="Your Name's GitHub Stats"` or `title="Your Name's GitHub stats"`
 
-```
-<img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical&include_all_commits=true">
+```html
+<img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical&include_all_commits=true" alt="Your Username's GitHub stats">
 ```
 
 `include_all_commits=false`:
+
+URL:
 
 <img src="https://github-readme-stats.vercel.app/api?username=Brunozhon&show_icons=true&theme=radical&include_all_commits=false">
 
@@ -104,6 +107,27 @@ Simply copy/paste this code and replace `yourusername` with your username.
 
 <img src="https://github-readme-stats.vercel.app/api?username=Brunozhon&show_icons=true&theme=dracula&include_all_commits=true">
 
+`theme=gotham`:
+
+<img src="https://github-readme-stats.vercel.app/api?username=Brunozhon&show_icons=true&theme=gotham&include_all_commits=true">
+
 `show_icons=false`:
 
 <img src="https://github-readme-stats.vercel.app/api?username=Brunozhon&show_icons=false&theme=radical&include_all_commits=true">
+
+Element:
+
+`alt="Bruno Zhong's GitHub stats"`:
+
+<img src="https://github-readme-stats.vercel.app/api?username=Brunozhon&show_icons=true&theme=radical&include_all_commits=true" alt="Bruno Zhong's GitHub stats">
+
+`title="Bruno Zhong's GitHub stats"`:
+
+<img src="https://github-readme-stats.vercel.app/api?username=Brunozhon&show_icons=true&theme=radical&include_all_commits=true" title="Bruno Zhong's GitHub stats">
+
+## Repos
+
+<a href="https://github.com/Brunozhon/Brunozhon.github.io"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Brunozhon&repo=Brunozhon.github.io&theme=radical" /></a>
+<a href="https://github.com/Brunozhon/otter"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Brunozhon&repo=otter&theme=radical" />
+<a href="https://github.com/Brunozhon/games"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Brunozhon&repo=games&theme=radical" /></a>
+
