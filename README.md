@@ -143,9 +143,7 @@ Simply copy/paste this code and replace `yourusername` with your GitHub username
 <a href="https://github.com/yourusername/yourrepo"><img src="https://github-readme-stats.vercel.app/api/pin/?username=yourusername&repo=yourrepo&theme=radical" /></a>
 ```
 
-### Happy Halloween!
-
-Here are my contributions:
+### Contributions for last Halloween!
 
 <a href="https://github.com/Brunozhon">
   <img src="https://user-images.githubusercontent.com/69879040/139585765-eab79878-a345-4354-a24b-f80288779da5.jpeg" width="500" />
