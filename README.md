@@ -25,7 +25,7 @@ Simple paragraph
 
 **Bold; for keywords**
 
-***Bold AND itialc; this text is super important***
+***Bold AND italic; this text is super important***
 
 *Nested, **they look better**!*
 **Or, *reversed*!**
@@ -128,7 +128,7 @@ Element:
 ## Repos
 
 <a href="https://github.com/Brunozhon/Brunozhon.github.io"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Brunozhon&repo=Brunozhon.github.io&theme=radical" /></a>
-<a href="https://github.com/Brunozhon/otter"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Brunozhon&repo=otter&theme=radical" />
+<a href="https://github.com/Brunozhon/great-adventure"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Brunozhon&repo=great-adventure&theme=radical" />
 <a href="https://github.com/Brunozhon/games"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Brunozhon&repo=games&theme=radical" /></a>
 
 ### How to add
