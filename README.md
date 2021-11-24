@@ -7,7 +7,9 @@
 
 Answer: **2** I was right all along!
 
-**Thanksgiving Activity**
+And taking about Ben, I guess it's time for...
+
+**Ben Activity**
 
 Fill in the blanks with the number of the answer above:
 
