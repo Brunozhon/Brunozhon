@@ -1,5 +1,8 @@
 **Thanksgiving Fact:** My teachers thought the person who wanted the national bird to be the turkey was Abraham Lincoln. I read my book *Big Nate Strikes Again* **AND** did a search on Google and they both said it was:
 
+![Pages 68 and 69 of Big Nate Strikes Again proves that he was the guy that wanted to make the national bird a turkey.](https://user-images.githubusercontent.com/69879040/143317783-22ca938e-3d1f-4ea1-babd-d480bcc91c78.jpeg)
+
+
 > Hint: It's **2**.
 
 1. Abraham Lincoln
