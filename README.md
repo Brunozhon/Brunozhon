@@ -162,6 +162,10 @@ Simply copy/paste this code and replace `yourusername` with your GitHub username
 <a href="https://github.com/yourusername/yourrepo"><img src="https://github-readme-stats.vercel.app/api/pin/?username=yourusername&repo=yourrepo&theme=radical" /></a>
 ```
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Brunozhon&langs_count=10)
+
+Top
+
 ### Contributions for last Halloween!
 
 <a href="https://github.com/Brunozhon">
