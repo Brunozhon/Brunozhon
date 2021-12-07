@@ -1,21 +1,4 @@
-**Thanksgiving Fact:** My teachers thought the person who wanted the national bird to be the turkey was Abraham Lincoln. I read my book *Big Nate Strikes Again* **AND** did a search on Google and they both said it was:
-
-> Hint: It's **2**.
-
-1. Abraham Lincoln
-2. Benjamin Franklin
-
-Answer: **2** I was right all along!
-
-And taking about Ben, I guess it's time for...
-
-**Ben Activity**
-
-Fill in the blanks with the number of the answer above:
-
-1. Ben has only \_\_ years of formal schooling!
-2. Ben taught himself to swim when he was \_\_ + 5 years old.
-3. When there was a coin shortage, Ben was hired to print out paper money, including \_\_-dollar bills
+**Note:** It's December now! The Ben Franklin things have been removed.
 
 # Hi!
 
@@ -164,7 +147,7 @@ Simply copy/paste this code and replace `yourusername` with your GitHub username
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Brunozhon&langs_count=10)
 
-Top
+You will never know how I did this. Mwahahahahahahahahahahahahahahahahahaha!
 
 ### Contributions for last Halloween!
 
