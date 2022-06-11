@@ -1,5 +1,3 @@
-**Note:** It's December now! The Ben Franklin things have been removed.
-
 # Hi!
 
 My name is Bruno Zhong. I am learning:
