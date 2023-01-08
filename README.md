@@ -1,3 +1,7 @@
+# Some Very Important News
+
+A person called @ysomani started following me. I think this is Yogesh Somani, a student from Brookfield Academy, but I am not entirely sure. (If it is Yogesh Somani, I hope he isn’t using his Brookfield account.)
+
 # Hi!
 
 My name is Bruno Zhong. I am learning:
