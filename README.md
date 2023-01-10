@@ -1,6 +1,8 @@
 # Some Very Important News
 
-A person called @ysomani started following me. I think this is Yogesh Somani, a student from Brookfield Academy, but I am not entirely sure. (If it is Yogesh Somani, I hope he isn’t using his Brookfield account.)
+A person called @ysomani started following me. It's Yogesh Somani.
+
+The reason he doesn't have any repositories is because he doesn't know how to "verify" his account. If anyone would like to help him, please feel free to do so.
 
 # Hi!
 
