@@ -1,12 +1,6 @@
-# Some Very Important News
-
-A person called @ysomani started following me. It's Yogesh Somani.
-
-The reason he doesn't have any repositories is because he doesn't know how to "verify" his account. If anyone would like to help him, please feel free to do so.
-
 # Hi!
 
-My name is Bruno Zhong. I am learning:
+My name is Bruno Zhong. I am 10 years old. I am learning:
 
 - Markdown
 - HTML (**H**yper**t**ext **M**arkup **L**anguge)
